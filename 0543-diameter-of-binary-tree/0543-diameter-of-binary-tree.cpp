@@ -13,14 +13,14 @@ class Solution {
 public:
    int function(TreeNode* root,int &maxi){
         if(root == nullptr) return 0;
-        int lh = function(root->left,maxi);
-        int rh = function(root->right,maxi);
+        int lh = max(0,function(root->left,maxi));
+        int rh = max(0,function(root->right,maxi));
         maxi = max(maxi,lh+rh);
         return 1+max(lh,rh);
    }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root == nullptr)  return 0;
-        int maxi = 0;
+        int maxi = INT_MIN;
         function(root,maxi);
         return maxi;
     }
