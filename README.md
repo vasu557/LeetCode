@@ -9,6 +9,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 <!---LeetCode Topics End-->
