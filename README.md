@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vasu557/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasu557/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -18,6 +19,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vasu557/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
