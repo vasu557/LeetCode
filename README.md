@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasu557/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -17,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -55,10 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasu557/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -90,4 +94,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
