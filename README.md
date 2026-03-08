@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasu557/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -20,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasu557/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sliding Window
