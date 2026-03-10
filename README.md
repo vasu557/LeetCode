@@ -11,6 +11,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasu557/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0739-daily-temperatures](https://github.com/vasu557/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/vasu557/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0739-daily-temperatures](https://github.com/vasu557/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +121,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/vasu557/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0739-daily-temperatures](https://github.com/vasu557/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
