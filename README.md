@@ -108,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/vasu557/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
