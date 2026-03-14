@@ -42,6 +42,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/vasu557/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0402-remove-k-digits](https://github.com/vasu557/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vasu557/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vasu557/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -135,5 +136,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/vasu557/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vasu557/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
