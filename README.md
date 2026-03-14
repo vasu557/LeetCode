@@ -30,6 +30,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasu557/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vasu557/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vasu557/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vasu557/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
