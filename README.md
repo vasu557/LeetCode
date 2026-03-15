@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasu557/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/vasu557/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu557/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasu557/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasu557/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/vasu557/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -43,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/vasu557/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/vasu557/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0402-remove-k-digits](https://github.com/vasu557/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vasu557/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -74,6 +77,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/vasu557/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/vasu557/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
