@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/vasu557/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vasu557/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/vasu557/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasu557/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasu557/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vasu557/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -64,11 +65,13 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vasu557/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vasu557/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vasu557/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Binary Search
