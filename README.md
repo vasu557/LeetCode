@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/vasu557/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/vasu557/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/vasu557/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -78,6 +79,7 @@
 | [0054-spiral-matrix](https://github.com/vasu557/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vasu557/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/vasu557/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/vasu557/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
