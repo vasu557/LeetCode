@@ -17,6 +17,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasu557/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vasu557/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/vasu557/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/vasu557/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vasu557/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vasu557/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/vasu557/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
