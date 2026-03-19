@@ -23,6 +23,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vasu557/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -39,6 +40,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/vasu557/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
