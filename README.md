@@ -28,6 +28,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vasu557/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vasu557/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/vasu557/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vasu557/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/vasu557/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
