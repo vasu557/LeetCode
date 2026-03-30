@@ -68,6 +68,7 @@
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vasu557/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vasu557/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
