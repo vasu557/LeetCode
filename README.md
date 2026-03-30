@@ -44,6 +44,7 @@
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vasu557/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/vasu557/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vasu557/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vasu557/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vasu557/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@
 | [0414-third-maximum-number](https://github.com/vasu557/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vasu557/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/vasu557/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vasu557/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
