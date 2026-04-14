@@ -22,6 +22,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/vasu557/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vasu557/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/vasu557/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/vasu557/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vasu557/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
