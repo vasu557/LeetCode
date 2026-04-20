@@ -25,6 +25,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/vasu557/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vasu557/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vasu557/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vasu557/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vasu557/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/vasu557/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/vasu557/LeetCode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -170,6 +171,7 @@
 | [0402-remove-k-digits](https://github.com/vasu557/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vasu557/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vasu557/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/vasu557/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
