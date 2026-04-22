@@ -157,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vasu557/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3270-find-the-key-of-the-numbers](https://github.com/vasu557/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
